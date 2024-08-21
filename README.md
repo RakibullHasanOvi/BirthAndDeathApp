@@ -8,7 +8,8 @@ While any one wan to install app then firstly he needs to copy pull request his 
 
 ## Screenshort
 
-Below there are providing some images
+Below there are providing some images:-
+
 <p align = "center">
 <img src="https://github.com/user-attachments/assets/6f637924-2521-43cd-86d4-73417eedb904" width="200" height="400" />
 <img src="https://github.com/user-attachments/assets/add5b5d4-2ad6-4381-84c5-8cc2c292524b" width ="200" height="400"/>
